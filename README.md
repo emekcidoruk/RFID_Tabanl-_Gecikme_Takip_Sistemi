@@ -192,7 +192,7 @@ private const string ADMIN_RFID_TAG = "1000 4084 0000 0000 0000 0122 142F C047";
 
 Sistemin nasıl çalıştığını görmek için aşağıdaki demo videosunu izleyebilirsiniz:
 
-[![Gecikme Takip Sistemi Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Gecikme Takip Sistemi Demo](C:\Users\doruk\OneDrive\Resimler\Resim.png)](https://www.youtube.com/watch?v=2-fDL4E4HgU)
 
 **Video İçeriği:**
 - 📱 Giriş ekranı ve RFID kart ile giriş
