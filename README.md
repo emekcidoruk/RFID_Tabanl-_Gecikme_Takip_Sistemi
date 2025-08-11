@@ -202,8 +202,6 @@ Sistemin nasıl çalıştığını görmek için aşağıdaki demo videosunu izl
 - 👨‍💼 Admin paneli ve filtreleme özellikleri
 - 🔄 Tamamlanmamış işlemleri bitirme
 
-> 💡 **Not:** Video ID'sini gerçek YouTube video ID'niz ile değiştirmeyi unutmayın!
-
 ## 📱 Ekran Görüntüleri
 
 ### Giriş Ekranı
