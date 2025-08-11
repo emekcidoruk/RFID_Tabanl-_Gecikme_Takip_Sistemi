@@ -245,8 +245,8 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **E-posta**: [email@example.com]
+- **Geliştirici**: [DORUK EMEKÇİ]
+- **E-posta**: [emekcidoruk65@gmail.com]
 - **Proje Linki**: [https://github.com/kullaniciadi/gecikme-takip-sistemi](https://github.com/kullaniciadi/gecikme-takip-sistemi)
 
 ## 🙏 Teşekkürler
