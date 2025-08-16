@@ -192,7 +192,7 @@ private const string ADMIN_RFID_TAG = "1000 4084 0000 0000 0000 0122 142F C047";
 
 Sistemin nasıl çalıştığını görmek için aşağıdaki demo videosunu izleyebilirsiniz:
 
-[![Gecikme Takip Sistemi Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Gecikme Takip Sistemi Demo](C:\Users\doruk\OneDrive\Resimler\Resim.png)](https://www.youtube.com/watch?v=2-fDL4E4HgU)
 
 **Video İçeriği:**
 - 📱 Giriş ekranı ve RFID kart ile giriş
@@ -201,8 +201,6 @@ Sistemin nasıl çalıştığını görmek için aşağıdaki demo videosunu izl
 - ⏱️ Gerçek zamanlı süre takibi
 - 👨‍💼 Admin paneli ve filtreleme özellikleri
 - 🔄 Tamamlanmamış işlemleri bitirme
-
-> 💡 **Not:** Video ID'sini gerçek YouTube video ID'niz ile değiştirmeyi unutmayın!
 
 ## 📱 Ekran Görüntüleri
 
@@ -247,8 +245,8 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **E-posta**: [email@example.com]
+- **Geliştirici**: [DORUK EMEKÇİ]
+- **E-posta**: [emekcidoruk65@gmail.com]
 - **Proje Linki**: [https://github.com/kullaniciadi/gecikme-takip-sistemi](https://github.com/kullaniciadi/gecikme-takip-sistemi)
 
 ## 🙏 Teşekkürler
