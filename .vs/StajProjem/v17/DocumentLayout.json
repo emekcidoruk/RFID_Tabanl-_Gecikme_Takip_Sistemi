@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github Projects\\RFID_Tabanl-_Gecikme_Takip_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB84E3E-2B9E-4EFD-BC81-C87A495ED53D}|StajProjem\\StajProjem.csproj|c:\\github projects\\rfid_tabanl-_gecikme_takip_sistemi\\stajprojem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB84E3E-2B9E-4EFD-BC81-C87A495ED53D}|StajProjem\\StajProjem.csproj|solutionrelative:stajprojem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github Projects\\RFID_Tabanl-_Gecikme_Takip_Sistemi\\StajProjem\\Form1.cs",
+              "RelativeDocumentMoniker": "StajProjem\\Form1.cs",
+              "ToolTip": "C:\\Github Projects\\RFID_Tabanl-_Gecikme_Takip_Sistemi\\StajProjem\\Form1.cs",
+              "RelativeToolTip": "StajProjem\\Form1.cs",
+              "ViewState": "AgIAAJ4HAAAAAAAAAAAAALAHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:07:15.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
